@@ -1,1 +1,6 @@
 /* Add your CSS code below */
+.message__content a {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
